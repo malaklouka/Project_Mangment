@@ -1,0 +1,3 @@
+export const LOADING_USER ="LOADING_USER"
+export const SUCCESS_USER ="SUCCESS_USER"
+export const FAIL_USER ="FAIL_USER"

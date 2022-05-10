@@ -1,0 +1,7 @@
+export const LOAD_TASKS="LOAD_TASKS"
+export const GET_TASKS_SUCCESS="GET_TASKS_SUCCESS"
+export const GET_TASKS_FAIL="GET_TASKS_FAIL"
+export const DELETE_TASK="DELETE_TASK"
+export const EDIT_TASK="EDIT_TASK"
+export const TASK_UPDATED="TASK_UPDATED"
+export const IS_RESERVED="IS_RESERVED"
